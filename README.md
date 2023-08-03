@@ -9,6 +9,6 @@ During the course of this project, I took the initiative to learn the Dart progr
 
 The primary code functions can be found in the following files:
 
-lib/pages/form_screen.dart
-lib/functions/myPdf.dart"
+1. lib/pages/form_screen.dart
+2. lib/functions/myPdf.dart"
 
