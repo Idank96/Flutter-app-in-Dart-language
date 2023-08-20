@@ -5,7 +5,7 @@
 
 This is one of my projects - an app designed for Android, iPhone, and Web platforms. 
 
-During the course of this project, I took the initiative to learn the Dart programming language and gain proficiency in utilizing Flutter, a cross-platform UI software development kit developed by Google.
+During this project, I took the initiative to learn the Dart programming language and gain proficiency in utilizing Flutter, a cross-platform UI software development kit developed by Google.
 
 The primary code functions can be found in the following files:
 
